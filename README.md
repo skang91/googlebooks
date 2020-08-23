@@ -5,9 +5,9 @@ React-based Google Books Search app that displays books on user searches. Users 
 `View` button to view the book on Google Books.
 
 ## Getting Started
-Click <a href="">here</a> to start!
+Click <a href="https://protected-plateau-29173.herokuapp.com/">here</a> to start!
 
-![screenshot](client/public/images/)
+![screenshot](client/public/images/screenshot.gif)
 
 ## Technologies used
 
