@@ -1,0 +1,10 @@
+.jumbotron {
+    min-height: 300px;
+    padding-top: 100px;
+    background-image: url(books3.jpeg);
+    font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+    padding-bottom: 10px;
+}
