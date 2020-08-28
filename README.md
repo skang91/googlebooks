@@ -12,7 +12,8 @@ Click <a href="https://protected-plateau-29173.herokuapp.com/">here</a> to start
 - [Express.js](https://expressjs.com)
 - [React.js](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
-- Search for books using the [Google Books API](https://developers.google.com/books/)
+- [Google Books API](https://developers.google.com/books/)
 
 
-
+## How to Install
+Clone the repository and run npm install. Run mongod to activate the MongoDB. Then run npm start and your browser will automatically open to localhost:3000
